@@ -1,6 +1,6 @@
-<%@ page  contentType="text/html; charset=UTF-8"%>
-
-                        </div>
+<%@ page contentType="text/html; charset=UTF-8"%>
+    
+                     </div>
                   </div>
                </div>
             </div>

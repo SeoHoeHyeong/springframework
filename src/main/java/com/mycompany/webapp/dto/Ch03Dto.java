@@ -12,9 +12,6 @@ public class Ch03Dto {
 	@DateTimeFormat(pattern="yyyy-MM-dd")
 	private Date param5;
 	
-	
-	
-	
 	public String getParam1() {
 		return param1;
 	}
@@ -45,5 +42,5 @@ public class Ch03Dto {
 	public void setParam5(Date param5) {
 		this.param5 = param5;
 	}
-
+	
 }
